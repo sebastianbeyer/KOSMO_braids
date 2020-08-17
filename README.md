@@ -7,7 +7,7 @@ braids, based on the through-hole version done by
 It has only 12 bits resolution in the output because the chip is easier to work
 with and cheaper.
 
-##Changes to original
+## Changes to original
 
 This project is so far only different to the soundforce version in that I removed the
 3.5mm jack sockets and replaced them with molex connectors to get them connected to the
@@ -20,7 +20,7 @@ I have not changed anything on the BRAIN board, so you can just use the original
 gerbers.
 
 
-##How to build:
+## How to build:
 
 Go download the latest gerber files
 [here](https://github.com/sebastianbeyer/KOSMO_braids/releases/latest) and use
@@ -30,7 +30,7 @@ location" at "Remove Order Number" for the panel.
 For documentation and BOM look at
 [sound-force.nl](http://sound-force.nl/?page_id=3179).
 
-##Changelog
+## Changelog
 
 ### 1.1
 Compared to the version in the top picture, I have made the cutout for the
