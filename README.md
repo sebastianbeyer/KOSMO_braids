@@ -14,7 +14,7 @@ This project is so far only different to the soundforce version in that I remove
 larger 6.3mm jack sockets that KOSMO uses.
 And I made the larger KOSMO panel.
 
-This version is still with the old (1.1) Version of the soundforce board, without the
+This version is still with the old (soundforce-1.1) Version of the soundforce board, without the
 termination series resistors on the SPI lines. I had no problems with this, but
 I have not changed anything on the BRAIN board, so you can just use the original
 gerbers.
@@ -29,3 +29,12 @@ location" at "Remove Order Number" for the panel.
 
 For documentation and BOM look at
 [sound-force.nl](http://sound-force.nl/?page_id=3179).
+
+##Changelog
+
+### 1.1
+Compared to the version in the top picture, I have made the cutout for the
+display a little bit smaller and added small "+" and "-" indicators for
+modulation and FM.
+
+![](./pictures/braids_panel_render.png)
