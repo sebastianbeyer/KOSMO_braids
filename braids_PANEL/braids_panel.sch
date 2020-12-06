@@ -388,10 +388,10 @@ F 3 "" H 4700 4200 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Mechanical:MountingHole_Pad H?
+L Mechanical:MountingHole_Pad H12
 U 1 1 5FCD49EB
 P 7050 4050
-F 0 "H?" H 7150 4099 50  0000 L CNN
+F 0 "H12" H 7150 4099 50  0000 L CNN
 F 1 "minitune" H 7150 4008 50  0000 L CNN
 F 2 "Kosmo_panel:Kosmo_Trimmer_Pot_Hole" H 7050 4050 50  0001 C CNN
 F 3 "~" H 7050 4050 50  0001 C CNN
@@ -399,10 +399,10 @@ F 3 "~" H 7050 4050 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L power:GND #PWR?
+L power:GND #PWR0102
 U 1 1 5FCD49F1
 P 7050 4150
-F 0 "#PWR?" H 7050 3900 50  0001 C CNN
+F 0 "#PWR0102" H 7050 3900 50  0001 C CNN
 F 1 "GND" H 7055 3977 50  0000 C CNN
 F 2 "" H 7050 4150 50  0001 C CNN
 F 3 "" H 7050 4150 50  0001 C CNN
@@ -410,10 +410,10 @@ F 3 "" H 7050 4150 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Mechanical:MountingHole_Pad H?
+L Mechanical:MountingHole_Pad H13
 U 1 1 5FCD4D39
 P 7650 4050
-F 0 "H?" H 7750 4099 50  0000 L CNN
+F 0 "H13" H 7750 4099 50  0000 L CNN
 F 1 "tuneswitch" H 7750 4008 50  0000 L CNN
 F 2 "Kosmo_panel:Kosmo_Switch_Hole" H 7650 4050 50  0001 C CNN
 F 3 "~" H 7650 4050 50  0001 C CNN
@@ -421,10 +421,10 @@ F 3 "~" H 7650 4050 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L power:GND #PWR?
+L power:GND #PWR0103
 U 1 1 5FCD4D3F
 P 7650 4150
-F 0 "#PWR?" H 7650 3900 50  0001 C CNN
+F 0 "#PWR0103" H 7650 3900 50  0001 C CNN
 F 1 "GND" H 7655 3977 50  0000 C CNN
 F 2 "" H 7650 4150 50  0001 C CNN
 F 3 "" H 7650 4150 50  0001 C CNN
