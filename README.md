@@ -30,6 +30,12 @@ location" at "Remove Order Number" for the panel.
 For documentation and BOM look at
 [sound-force.nl](http://sound-force.nl/?page_id=3179).
 
+## How to program:
+
+BratAttack made an awesome video on how to upload the firmware to the STM32!
+[![BratAttackVideo](http://img.youtube.com/vi/kT_u0w2BjEw/0.jpg)](http://www.youtube.com/watch?v=kT_u0w2BjEw "Putting Firmware on KOSMO Braids")
+
+
 ## Changelog
 
 ### 1.1
